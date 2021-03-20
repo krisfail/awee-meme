@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "FAIR USE",
+  "footer": "FAIR USE,Made by kris.fail",
   "usage-stats": false
 }
